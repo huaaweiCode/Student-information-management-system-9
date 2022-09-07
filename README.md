@@ -1,8 +1,5 @@
 # 学生信息管理系统
 
-扫描下方 ，回复“**学生9**”，获取源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
